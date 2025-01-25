@@ -11,9 +11,15 @@
 - 📫 How to reach me **sachinverma53121@gmail.com**
 
 ### 🛠 编程语言 | Programming Languages
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+## Languages
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
 ### 🛠 技术栈 | Tech Stack
 
