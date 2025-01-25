@@ -1,5 +1,4 @@
 ## Hi there 👋
-1### Hi there 👋
  2
  3🤓 I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
  4
@@ -10,7 +9,7 @@
  9![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 10
 11
-12### My side projects
+My side projects
 13
 141. Collecting and sharing awesome resources about technical communication (tech comm):
 15
@@ -24,7 +23,7 @@
 23    - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 24
 25
-26### Get in touch
+26 Get in touch
 27
 28[![lilianlee.me](https://img.shields.io/badge/lilianlee.me-orange)](https://lilianlee.me/)
 29[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
