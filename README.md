@@ -1,14 +1,4 @@
 <h1 align="center">念念不忘 必有回响<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
- <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
-  </a>
-</p>
-
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
-
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
