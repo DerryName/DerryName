@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🌱 活在当下的程序猿
 - 💬 博客地址 [CSDN](https://blog.csdn.net/qq_59679685?spm=1000.2115.3001.5343)
 - 😄 喜欢做有趣的事情 ❤
 - 📫 QQ邮箱，欢迎一起学习交流 **2668423389@qq.com**
