@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... **Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ 喜欢做有趣的事情 **Anime**❤
+- ⚡ 喜欢做有趣的事情 ❤
 - 📫 QQ邮箱，欢迎一起学习交流 **2668423389@qq.com**
 
 ### 编程语言 | Programming Languages
