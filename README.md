@@ -11,7 +11,6 @@
 - 📫 How to reach me **sachinverma53121@gmail.com**
 
 ### 🛠 编程语言 | Programming Languages
-## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
