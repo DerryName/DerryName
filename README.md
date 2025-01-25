@@ -10,7 +10,7 @@
 - ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **sachinverma53121@gmail.com**
 
-### 🛠 编程语言 | Programming Languages
+### 编程语言 | Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-### 🛠 技术栈 | Tech Stack
+### 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
