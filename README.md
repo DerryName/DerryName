@@ -3,10 +3,6 @@
    <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
-  
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
-  </a>
 </p>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
